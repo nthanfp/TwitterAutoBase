@@ -1,0 +1,13 @@
+{
+    "name": "nthanfp/tweet",
+    "authors": [
+        {
+            "name": "Nathanael Ferry P",
+            "email": "ntnferry1505@gmail.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "^1.1",
+        "phpunit/phpunit": "^8.5"
+    }
+}
