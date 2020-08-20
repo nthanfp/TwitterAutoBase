@@ -13,7 +13,7 @@ Twitter Auto Base it’s a console based script created for bot that works like 
 # Installation
 
 Twitter Auto Base requires [PHP](https://www.php.net/) to run.
-
+Edit file config.php before you run this script
 ```sh
 $ git clone https://github.com/nthanfp/TwitterAutoBase
 $ cd TwitterAutoBase
