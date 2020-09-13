@@ -20,7 +20,6 @@ $ cd TwitterAutoBase
 $ cd lib
 $ composer install
 $ cd ../
-$ php AutoBase.php
 ```
 
 # Run
