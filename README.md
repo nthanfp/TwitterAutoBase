@@ -22,3 +22,10 @@ $ composer install
 $ cd ../
 $ php AutoBase.php
 ```
+
+# Run
+
+How to run this script
+```sh
+$ php AutoBase.php
+```
