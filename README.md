@@ -17,6 +17,8 @@ Edit file config.php before you run this script
 ```sh
 $ git clone https://github.com/nthanfp/TwitterAutoBase
 $ cd TwitterAutoBase
+$ cd lib
+$ composer install
+$ cd ../
 $ php AutoBase.php
 ```
-
